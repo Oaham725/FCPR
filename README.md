@@ -10,6 +10,7 @@ We provided one example here:
 
 ###### Maintainer and Contributors ######
 Dr. Hao Ma, Xiao-Han Xi
+
 For more information or instruction, please contact us: oaham@xmu.edu.cn (H.M)
 
 ###### License ######
