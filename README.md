@@ -2,14 +2,10 @@
 An agorithm for processing full-range confocal polarized Raman (FCPR) spectral data to determine 3D structure of crystals
 
 ###### Preparation and Usage ######
-This code is developed based on Python, and the environment is quite simple. To note that, .
-
-
-We provided one example here:
-.
+This code is developed based on Python, and the environment is quite simple. Examples are included in the files.
 
 ###### Maintainer and Contributors ######
-Xiao-Han Xi, Dr. Hao Ma
+Xiao-Han Xi, Yan-Ti Liu, Dr. Hao Ma
 
 For more information or instruction, please contact us: oaham@xmu.edu.cn (H.M)
 
